@@ -331,6 +331,9 @@ Or you could just use this nifty button to deploy to DigitalOcean (experimental)
 
 We both get credits for DigitalOcean if you end using their services so be a mate. 
 
+## Deploying on Hostinger
+
+[![Deploy on Hostinger](https://assets.hostinger.com/vps/deploy.svg)](https://www.hostinger.com/vps/docker-hosting?compose_url=https://github.com/alekcz/pcp)
 
 # Roadmap & releases
 
